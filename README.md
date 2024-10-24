@@ -1,4 +1,4 @@
-# ✨ API, CRM, Client and Mobile application of **_Awesome-Ecom_**, an online shopping portal
+#  API, CRM, Client and Mobile application of **Ecommerce_App**, an online shopping portal
 
 <p>
 <img src="https://img.shields.io/badge/CRM-ReactJS-blue?logo=react">
